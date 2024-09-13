@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1079930748615",
+    "project_id": "minimal-social-media-911dd",
+    "storage_bucket": "minimal-social-media-911dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079930748615:android:a2609be4f55021cb5988e2",
+        "android_client_info": {
+          "package_name": "com.minimal.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079930748615-0giieun8pedtkdd1o3m2400sd27cgk27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE43wk5wtrTqcrvossrfX-UDYefzhTG4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079930748615-0giieun8pedtkdd1o3m2400sd27cgk27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079930748615-elh06rcpi6a2sstm8laokn0aro0e7qmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialMediaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079930748615:android:45a96910cf70aaf75988e2",
+        "android_client_info": {
+          "package_name": "com.minimalsocial.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079930748615-0giieun8pedtkdd1o3m2400sd27cgk27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE43wk5wtrTqcrvossrfX-UDYefzhTG4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079930748615-0giieun8pedtkdd1o3m2400sd27cgk27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079930748615-elh06rcpi6a2sstm8laokn0aro0e7qmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialMediaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079930748615:android:e38c9cdfa071df615988e2",
+        "android_client_info": {
+          "package_name": "com.mininalsocialmedia.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079930748615-0giieun8pedtkdd1o3m2400sd27cgk27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE43wk5wtrTqcrvossrfX-UDYefzhTG4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079930748615-0giieun8pedtkdd1o3m2400sd27cgk27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079930748615-elh06rcpi6a2sstm8laokn0aro0e7qmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialMediaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
